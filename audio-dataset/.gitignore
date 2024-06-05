@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+
+midi/
+samples/
+dataset/
+noise/
+samples_recorded/
+samples_sticks/
